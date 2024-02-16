@@ -10,13 +10,13 @@ double BMI = weight / (hight * hight);
 
 if (BMI <= 18)
 {
-    Console.WriteLine("Podnormeno teglo");
+    Console.WriteLine("Класификация:Поднормено тегло");
 }
 else if (BMI > 18 &&  BMI <= 25)
 {
-    Console.WriteLine("Normalno teglo");
+    Console.WriteLine("Класификация:Нормално тегло");
 }
 else
 {
-    Console.WriteLine("Nadnormeno teglo");
+    Console.WriteLine("Класивикация:Nadnormeno teglo");
 }
