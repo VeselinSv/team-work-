@@ -18,5 +18,5 @@ else if (BMI > 18 &&  BMI <= 25)
 }
 else
 {
-    Console.WriteLine("Класивикация:Nadnormeno teglo");
+    Console.WriteLine("Класификация:Нормално тегло");
 }
